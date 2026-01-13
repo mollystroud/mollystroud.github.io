@@ -2,8 +2,7 @@ title: Molly Stroud
 email: mollystroud@vt.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Remote sensing hydrologist
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mollystroud.github.io" 
+baseurl: ""
 icon: /assets/images/icon-512.png
 # Build settings
 markdown: kramdown
