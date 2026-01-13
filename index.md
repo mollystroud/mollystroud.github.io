@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Home
+title: about me
+permalink: /
 ---
 
 Testing home page!
