@@ -6,3 +6,8 @@ baseurl: ""
 icon: /assets/images/icon-512.png
 # Build settings
 markdown: kramdown
+plugins:
+  - jekyll-paginate
+
+paginate: 3
+paginate_path: "/page/:num/"
