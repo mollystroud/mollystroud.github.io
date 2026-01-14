@@ -10,14 +10,14 @@ layout: default
   <header class="site-masthead">
     {% include menu.html %}
     {% if site.title %}
-      <h4>
+      <h1>
         {{ site.title }}
-      </h4>
+      </h1>
     {% endif %}
     {% if site.title %}
-      <h6>
+      <h2>
         {{ site.description }}
-      </h6>
+      </h2>
     {% endif %}
   </header>
 {% endif %}
@@ -28,7 +28,7 @@ layout: default
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}
     {% else %}
-    
+      Contents
     {% endif %}
   </h1>
 
