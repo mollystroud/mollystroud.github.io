@@ -1,7 +1,7 @@
 @mixin divider {
   border: 0;
-  width: 900px;
-  height: 100px;
+  width: 304px;
+  height: 24px;
   margin: .3em auto 0;
   background: url(#{$asset_url}/images/divider.svg) no-repeat top center;
 }
