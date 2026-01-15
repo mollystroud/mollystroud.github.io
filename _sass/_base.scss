@@ -110,6 +110,7 @@ figcaption {
 .divided::after {
   content: "";
   @include divider;
+  margin-bottom: 1rem;
 }
 
 .home {
