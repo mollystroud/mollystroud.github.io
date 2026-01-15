@@ -5,4 +5,4 @@ permalink: /CV/
 ---
 
 
-<iframe src="../Stroud_CV_2026.pdf" width="600" height="600"></iframe>
+<object data="Stroud_CV_2026.pdf" width="800" height="500" type="application/pdf"></object>
