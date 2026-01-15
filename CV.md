@@ -4,5 +4,6 @@ title: CV
 permalink: /CV/
 ---
 
+testing 
 
-<object data="Stroud_CV_2026.pdf" width="800" height="500" type="application/pdf"></object>
+<iframe src="Stroud_CV_2026.pdf" width="100%" height="500px"></iframe>

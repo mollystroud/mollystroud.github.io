@@ -6,9 +6,7 @@ permalink: /
 
 I am a Postdoctoral Associate at Virginia Tech, working in the Center for Ecosystem Forecasting in the Biological Sciences Department. My research focuses on incorporating satellite remote sensing data into near-term forecasting models to improve accuracy and transferability.
 
-![Headshot](headshot.png){: width="50%" }
-
-<img src= "headshot.png" alt="" style="border: 2px solid #2a5654;">
+<img src= "headshot.png" alt="" style="border: 4px solid #2a5654;" width = "300>
 
 
 I completed my Ph.D. in the Geosciences department at Virginia Tech in 2025, working with [Dr. George Allen in the Global Rivers Group](https://www.globalriversgroup.com/). My dissertation focused on exploring innovative applications of remote sensing data to study sediment transport. To learn more about my research, click [here](/research/).
