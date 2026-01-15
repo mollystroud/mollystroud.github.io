@@ -1,5 +1,6 @@
 @mixin divider {
   border: 0;
+  display: block;
   width: 304px;
   height: 24px;
   margin: .3em auto 0;
