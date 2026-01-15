@@ -1,10 +1,9 @@
 ---
 layout: home
-title: molly stroud
+title: about me
 permalink: /
 ---
 
-### **about me**
 I am a Postdoctoral Associate at Virginia Tech, working in the Center for Ecosystem Forecasting in the Biological Sciences Department. My research focuses on incorporating satellite remote sensing data into near-term forecasting models to improve accuracy and transferability.
 
 ![Headshot](headshot.png){: width="50%" }
