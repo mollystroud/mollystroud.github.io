@@ -21,17 +21,20 @@ layout: default
     {% endif %}
   </header>
 {% endif %}
+
 {% if content %}
   <div class="divided"></div>
 {% endif %}
 
 <main class="home" id="main" role="main" aria-label="Content">
+  
+  {{ content }}
 
   <h1 class="content-title">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}
     {% else %}
-      {{ content }}
+      
     {% endif %}
   </h1>
 
