@@ -27,10 +27,12 @@ Below you can find examples of my work.
     </center>
 </div> 
 
-<p float="left">
-  <img src="/art/brynmawr_sticker.png" width="200" />
-  <img src="/art/brynmawr_bookmark.png" width="100" /> 
-</p>
+
+<div class="grid" markdown>
+![GSartS](/art/brynmawr_sticker.png){: width="50%"}
+![GSartS](/art/brynmawr_bookmark.png.png){: width="50%"}
+</div>
+
 
 <div style="margin-top:-2em">
     <center>
