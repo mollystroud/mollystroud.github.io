@@ -30,9 +30,9 @@ Below you can find examples of my work.
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <img src="/art/brynmawr_sticker.png"
-       style="width: 50%; height: auto; max-height: none; align-self: flex-start;">
+       style="width: 60%; height: auto; max-height: none; align-self: flex-start;">
   <img src="/art/brynmawr_bookmark.png"
-       style="width: 50%; height: auto; max-height: none; align-self: flex-start;">
+       style="width: 30%; height: auto; max-height: none; align-self: flex-start;">
 </div>
 
 
