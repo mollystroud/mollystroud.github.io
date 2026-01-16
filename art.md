@@ -43,7 +43,7 @@ Below you can find examples of my work.
     </center>
 </div> 
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
+<div style="display: flex; gap: 0.5rem; align-items: flex-start;">
   <img src="/art/isf2022.png"
        style="width: 25%; height: auto; max-height: none; align-self: flex-start;">
   <img src="/art/isf2023.png"
