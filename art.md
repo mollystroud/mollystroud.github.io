@@ -35,11 +35,29 @@ Below you can find examples of my work.
        style="width: 30%; height: auto; max-height: none; align-self: flex-start;">
 </div>
 
-
 <div style="margin-top:-2em">
     <center>
      <span style="color:#2a5654;font-size:0.85em">
       Official sticker and bookmark branding for the <a href="https://brynmawrbookstore.com/">Bryn Mawr Bookstore</a> in Cambridge, MA
+     </span>
+    </center>
+</div> 
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <img src="/art/isf2022.png"
+       style="width: 25%; height: auto; max-height: none; align-self: flex-start;">
+  <img src="/art/isf2023.png"
+       style="width: 25%; height: auto; max-height: none; align-self: flex-start;">
+  <img src="/art/isf2024.png"
+       style="width: 25%; height: auto; max-height: none; align-self: flex-start;">
+  <img src="/art/isf2026.png"
+       style="width: 25%; height: auto; max-height: none; align-self: flex-start;">
+</div>
+
+<div style="margin-top:-2em">
+    <center>
+     <span style="color:#2a5654;font-size:0.85em">
+      Annual stickers for the <a href="https://forecasters.org/events/symposium-on-forecasting//">International Symposium on Forecasting</a>, an annual conference held by the International Institute of Forecasters.
      </span>
     </center>
 </div> 
