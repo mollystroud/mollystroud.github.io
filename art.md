@@ -13,16 +13,12 @@ Below you can find examples of my work.
 
 ## Prints ##
 
-![JaneAusten](art/jane_austen.jpg)
-
-![ToniMorrison](/art/toni_morrison.jpg)
-
-![VirginiaWoolf](/art/virginia_woolf.jpg)
+![Authors](art/authors.png)
 
 
 ## Graphic Design ##
 
-![GSartS](/art/GSartS_30thAnniversary.png){: width=30%}
+![GSartS](/art/GSartS_30thAnniversary.png){: width="50%"}
 <div style="margin-top:-2em">
     <center>
      <span style="color:#2a5654;font-size:0.85em">
@@ -31,7 +27,7 @@ Below you can find examples of my work.
     </center>
 </div> 
 
-![BrynMawrSticker](/art/brynmawr_sticker.png){: width=30%} ![BrynMawrBookmark](/art/brynmawr_bookmark.png){: width=30%}
+![BrynMawrSticker](/art/brynmawr_sticker.png){: width="30%"} ![BrynMawrBookmark](/art/brynmawr_bookmark.png){: width="30%"}
 <div style="margin-top:-2em">
     <center>
      <span style="color:#2a5654;font-size:0.85em">
