@@ -4,11 +4,7 @@ title: art
 permalink: /art/
 ---
 
-Outside of research, I am an avid printmaker, graphic designer, and photographer. Please shoot me a [message](/contact/) if you're interested in commissioning a piece!
-
-&nbsp;
-
-Below you can find examples of my work.
+Outside of research, I am an avid printmaker, graphic designer, and photographer. Please shoot me a [message](/contact/) if you're interested in commissioning a piece! Below you can find examples of my work.
 
 
 ## prints ##
@@ -17,16 +13,6 @@ Below you can find examples of my work.
 
 
 ## graphic design ##
-
-![GSartS](/art/GSartS_30thAnniversary.png){: width="50%"}
-<div style="margin-top:-2em">
-    <center>
-     <span style="color:#2a5654;font-size:0.85em">
-      Winning sticker design for the 30th Anniversary of the <a href="https://gsrsvtgeos.wixsite.com/home"> Geosciences Student Research Symposium</a> at Virginia Tech
-     </span>
-    </center>
-</div> 
-
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <img src="/art/brynmawr_sticker.png"
@@ -48,7 +34,28 @@ Below you can find examples of my work.
 <div style="margin-top:-2em">
     <center>
      <span style="color:#2a5654;font-size:0.85em">
-      Annual stickers for the <a href="https://forecasters.org/events/symposium-on-forecasting//">International Symposium on Forecasting</a>, an annual conference held by the International Institute of Forecasters.
+      Annual stickers for the <a href="https://forecasters.org/events/symposium-on-forecasting//">International Symposium on Forecasting</a>, an annual conference held by the International Institute of Forecasters
+     </span>
+    </center>
+</div> 
+
+
+![GSartS](/art/GSartS_30thAnniversary.png){: width="50%"}
+<div style="margin-top:-2em">
+    <center>
+     <span style="color:#2a5654;font-size:0.85em">
+      Winning sticker design for the 30th Anniversary of the <a href="https://gsrsvtgeos.wixsite.com/home"> Geosciences Student Research Symposium</a> at Virginia Tech
+     </span>
+    </center>
+</div> 
+
+
+
+![Books in Motion](/art/booksinmotion.png){: width="50%"}
+<div style="margin-top:-2em">
+    <center>
+     <span style="color:#2a5654;font-size:0.85em">
+      Brand design for <a href="https://www.instagram.com/books.in.motion/">Books in Motion</a>, a bookstore on wheels
      </span>
     </center>
 </div> 
