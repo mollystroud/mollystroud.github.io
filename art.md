@@ -28,14 +28,14 @@ Below you can find examples of my work.
 </div> 
 
 <p float="left">
-  <img src="/art/brynmawr_sticker.png" width="300" />
+  <img src="/art/brynmawr_sticker.png" width="200" />
   <img src="/art/brynmawr_bookmark.png" width="100" /> 
 </p>
 
 <div style="margin-top:-2em">
     <center>
      <span style="color:#2a5654;font-size:0.85em">
-      Official sticker and bookmark branding for the [Bryn Mawr Bookstore](https://brynmawrbookstore.com/) in Cambridge, MA
+      Official sticker and bookmark branding for the <a href="https://brynmawrbookstore.com/"></a> in Cambridge, MA
      </span>
     </center>
 </div> 
