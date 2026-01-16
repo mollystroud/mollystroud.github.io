@@ -11,13 +11,13 @@ Below you can find examples of my work.
 
 ### Prints ###
 
-![JaneAusten](/art/jane_austen.png)
+![JaneAusten](/art/jane_austen.jpg)
 
-![ToniMorrison](/art/toni_morrison.png)
+![ToniMorrison](/art/toni_morrison.jpg)
 
-![VirginiaWoolf](/art/virginia_woolf.png)
+![VirginiaWoolf](/art/virginia_woolf.jpg)
 
-![JamesJoyce](/art/james_joyce.png)
+![JamesJoyce](/art/james_joyce.jpg)
 
 
 ### Graphic Design ###
