@@ -11,8 +11,10 @@ I am a Postdoctoral Associate at Virginia Tech, working in the Center for Ecosys
 
 I completed my Ph.D. in the Geosciences department at Virginia Tech in 2025, working with [Dr. George Allen in the Global Rivers Group](https://www.globalriversgroup.com/). My dissertation focused on exploring innovative applications of remote sensing data to study sediment transport. To learn more about my research, click [here](/research/).
 
+&nbsp;
 
 I graduated from Dartmouth College in 2021 with a B.A. in Earth Sciences and a minor in English. My senior thesis examined alluvial fans in Martian craters and received highest honors.
 
+&nbsp;
 
 My full CV may be viewed [here](/CV/).

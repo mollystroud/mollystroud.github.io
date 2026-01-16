@@ -6,19 +6,21 @@ permalink: /art/
 
 Outside of research, I am an avid printmaker, graphic designer, and photographer. Please shoot me a [message](/contact/) if you're interested in commissioning a piece!
 
+&nbsp;
+
 Below you can find examples of my work.
 
 
-### Prints ###
+## Prints ##
 
-![JaneAusten](/art/jane_austen.jpg)
+![JaneAusten](art/jane_austen.jpg)
 
 ![ToniMorrison](/art/toni_morrison.jpg)
 
 ![VirginiaWoolf](/art/virginia_woolf.jpg)
 
 
-### Graphic Design ###
+## Graphic Design ##
 
 ![GSartS](/art/GSartS_30thAnniversary.png){: width=50%}
 <div style="margin-top:-2em">
@@ -38,5 +40,5 @@ Below you can find examples of my work.
     </center>
 </div> 
 
-### Photography ###
+## Photography ##
 
