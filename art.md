@@ -29,8 +29,8 @@ Below you can find examples of my work.
 
 
 <p float="left">
-  <img src="/art/brynmawr_sticker.png" width="60%" />
-  <img src="/art/brynmawr_bookmark.png" width="40%" /> 
+  <img src="/art/brynmawr_sticker.png" width="50%" />
+  <img src="/art/brynmawr_bookmark.png" width="30%" /> 
 </p>
 
 
