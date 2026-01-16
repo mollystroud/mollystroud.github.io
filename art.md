@@ -60,5 +60,16 @@ Outside of research, I am an avid printmaker, graphic designer, and photographer
     </center>
 </div> 
 
+![Forecasting Impace](/art/podcast_logo.jpg){: width="50%"}
+<div style="margin-top:-2em">
+    <center>
+     <span style="color:#2a5654;font-size:0.85em">
+      Brand design for the <a href="https://open.spotify.com/show/7DUtEkZEaMpJommvGGKHvh"> Forecasting Impact Podcast</a> 
+     </span>
+    </center>
+</div> 
+
+
+
 ## photography ##
 
