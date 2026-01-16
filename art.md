@@ -22,7 +22,7 @@ Below you can find examples of my work.
 <div style="margin-top:-2em">
     <center>
      <span style="color:#2a5654;font-size:0.85em">
-      Winning sticker design for the 30th Anniversary of the Geosciences Student Research Symposium at Virginia Tech
+      Winning sticker design for the 30th Anniversary of the <a href="https://gsrsvtgeos.wixsite.com/home"> Geosciences Student Research Symposium</a> at Virginia Tech
      </span>
     </center>
 </div> 
@@ -43,16 +43,7 @@ Below you can find examples of my work.
     </center>
 </div> 
 
-<div style="display: flex; gap: 0.5rem; align-items: flex-start;">
-  <img src="/art/isf2022.png"
-       style="width: 25%; height: auto; max-height: none; align-self: flex-start;">
-  <img src="/art/isf2023.png"
-       style="width: 25%; height: auto; max-height: none; align-self: flex-start;">
-  <img src="/art/isf2024.png"
-       style="width: 25%; height: auto; max-height: none; align-self: flex-start;">
-  <img src="/art/isf2026.png"
-       style="width: 25%; height: auto; max-height: none; align-self: flex-start;">
-</div>
+![GSartS](/art/isf_stickers.png)
 
 <div style="margin-top:-2em">
     <center>
