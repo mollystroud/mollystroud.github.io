@@ -22,7 +22,7 @@ Below you can find examples of my work.
 
 ## Graphic Design ##
 
-![GSartS](/art/GSartS_30thAnniversary.png){: width=50%}
+![GSartS](/art/GSartS_30thAnniversary.png){: width=30%}
 <div style="margin-top:-2em">
     <center>
      <span style="color:#2a5654;font-size:0.85em">
@@ -31,7 +31,7 @@ Below you can find examples of my work.
     </center>
 </div> 
 
-![BrynMawrSticker](/art/brynmawr_sticker.png){: width=50%} ![BrynMawrBookmark](/art/brynmawr_bookmark.png){: width=50%}
+![BrynMawrSticker](/art/brynmawr_sticker.png){: width=30%} ![BrynMawrBookmark](/art/brynmawr_bookmark.png){: width=30%}
 <div style="margin-top:-2em">
     <center>
      <span style="color:#2a5654;font-size:0.85em">
