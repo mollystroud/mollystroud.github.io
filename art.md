@@ -28,12 +28,12 @@ Below you can find examples of my work.
 </div> 
 
 
-
-<div style="display: flex; gap: 1rem;">
-  <img src="/art/brynmawr_sticker.png" alt="Image 1" style="width: 50%;">
-  <img src="/art/brynmawr_bookmark.png" alt="Image 2" style="width: 40%;">
+<div style="display: flex; gap: 1rem; align-items: center;">
+  <img src="/art/brynmawr_sticker.png"
+       style="height: 250px; width: auto; object-fit: contain;">
+  <img src="/art/brynmawr_bookmark.png"
+       style="height: 250px; width: auto; object-fit: contain;">
 </div>
-
 
 <div style="margin-top:-2em">
     <center>
