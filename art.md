@@ -28,11 +28,12 @@ Below you can find examples of my work.
 </div> 
 
 
-<div style="display: flex; gap: 0.5rem;">
-  <img src="/art/brynmawr_sticker.png" style="width: 50%; height: auto;">
-  <img src="/art/brynmawr_bookmark.png" style="width: 45%; height: auto;">
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <img src="/art/brynmawr_sticker.png"
+       style="width: 50%; height: auto; max-height: none; align-self: flex-start;">
+  <img src="/art/brynmawr_bookmark.png"
+       style="width: 50%; height: auto; max-height: none; align-self: flex-start;">
 </div>
-
 
 
 <div style="margin-top:-2em">
