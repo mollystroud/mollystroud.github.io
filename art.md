@@ -11,12 +11,12 @@ Outside of research, I am an avid printmaker, graphic designer, and photographer
 Below you can find examples of my work.
 
 
-## Prints ##
+## prints ##
 
 ![Authors](art/authors.png)
 
 
-## Graphic Design ##
+## graphic design ##
 
 ![GSartS](/art/GSartS_30thAnniversary.png){: width="50%"}
 <div style="margin-top:-2em">
@@ -27,7 +27,11 @@ Below you can find examples of my work.
     </center>
 </div> 
 
-![BrynMawrSticker](/art/brynmawr_sticker.png){: width="30%"} ![BrynMawrBookmark](/art/brynmawr_bookmark.png){: width="30%"}
+<p float="left">
+  <img src="/art/brynmawr_sticker.png" width="300" />
+  <img src="/art/brynmawr_bookmark.png" width="100" /> 
+</p>
+
 <div style="margin-top:-2em">
     <center>
      <span style="color:#2a5654;font-size:0.85em">
@@ -36,5 +40,5 @@ Below you can find examples of my work.
     </center>
 </div> 
 
-## Photography ##
+## photography ##
 
