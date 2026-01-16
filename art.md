@@ -11,18 +11,18 @@ Below you can find examples of my work.
 
 ### Prints ###
 
-![JaneAusten](.../art/jane_austen.png)
+![JaneAusten](/art/jane_austen.png)
 
-![ToniMorrison](.../art/toni_morrison.png)
+![ToniMorrison](/art/toni_morrison.png)
 
-![VirginiaWoolf](.../art/virginia_woolf.png)
+![VirginiaWoolf](/art/virginia_woolf.png)
 
-![JamesJoyce](.../art/james_joyce.png)
+![JamesJoyce](/art/james_joyce.png)
 
 
 ### Graphic Design ###
 
-![GSartS](.../art/GSartS_30thAnniversary.png)
+![GSartS](/art/GSartS_30thAnniversary.png)
 <div style="margin-top:-2em">
     <center>
      <span style="color:#2a5654;font-size:0.85em">
@@ -31,7 +31,7 @@ Below you can find examples of my work.
     </center>
 </div> 
 
-![BrynMawrSticker](.../art/brynmawr_sticker.png) ![BrynMawrBookmark](.../art/brynmawr_bookmark.png)
+![BrynMawrSticker](art/brynmawr_sticker.png) ![BrynMawrBookmark](/art/brynmawr_bookmark.png)
 <div style="margin-top:-2em">
     <center>
      <span style="color:#2a5654;font-size:0.85em">
