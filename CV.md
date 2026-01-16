@@ -4,6 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
-testing 
+testing
 
-<object data="Stroud_CV_2026.pdf" width="1000" height="1000" type='application/pdf'/>
+
+<object data="../Stroud_CV_2026.pdf" width="700" type='application/pdf'/>
