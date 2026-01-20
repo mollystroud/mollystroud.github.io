@@ -18,3 +18,7 @@ I graduated from Dartmouth College in 2021 with a B.A. in Earth Sciences and a m
 &nbsp;
 
 My full CV may be viewed [here](/CV/).
+
+&nbsp;
+
+Outside of research, I can be found going on long runs, creating [art](/art/), reading, and trying out new recipes in the kitchen!
