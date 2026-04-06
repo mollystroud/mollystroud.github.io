@@ -73,3 +73,16 @@ Outside of research, I am an avid printmaker, graphic designer, and photographer
 
 ## photography ##
 
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <img src="/art/bluebird.png"
+       style="width: 50%; height: auto; max-height: none; align-self: flex-start;">
+  <img src="/art/downy.png"
+       style="width: 50%; height: auto; max-height: none; align-self: flex-start;">
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <img src="/art/vireo.jpg"
+       style="width: 50%; height: auto; max-height: none; align-self: flex-start;">
+  <img src="/art/yellowbellied.jpg"
+       style="width: 50%; height: auto; max-height: none; align-self: flex-start;">
+</div>
