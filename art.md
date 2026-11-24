@@ -4,7 +4,7 @@ title: art
 permalink: /art/
 ---
 
-Outside of research, I am an avid printmaker, graphic designer, and photographer. Please shoot me a [message](/contact/) if you're interested in commissioning a piece! Below you can find examples of my work.
+Outside of research, I am an avid printmaker, graphic designer, and photographer. Please shoot me a [message](/contact/) if you're interested in commissioning a piece! Below you can find examples of my work, as well as on my [Instagram](instagram.com/MollysArthouse).
 
 
 ## prints ##
@@ -69,20 +69,3 @@ Outside of research, I am an avid printmaker, graphic designer, and photographer
     </center>
 </div> 
 
-
-
-## photography ##
-
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <img src="/art/bluebird.png"
-       style="width: 45%; height: auto; max-height: none; align-self: flex-start;">
-  <img src="/art/downy.png"
-       style="width: 45%; height: auto; max-height: none; align-self: flex-start;">
-</div>
-
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <img src="/art/vireo.jpg"
-       style="width: 45%; height: auto; max-height: none; align-self: flex-start;">
-  <img src="/art/yellowbellied.jpg"
-       style="width: 45%; height: auto; max-height: none; align-self: flex-start;">
-</div>
